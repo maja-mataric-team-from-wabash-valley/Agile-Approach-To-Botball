@@ -4,7 +4,7 @@ This repository is the place where the Maja Mataric Team from the Wabash Valley 
 This repository isn't meant to store code and will be limited to project issues and some wiki pages.
 
 There are the following wiki page groups:
-1.  Agile/Scrum Plan
+1.  Agile/Sprint Plan
 2.  Robot Interaction Patterns
 3.  Configurations of the Interaction Patterns for Each Robot
 
